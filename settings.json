@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THESPELL.aternos.me",
-    "port": 47236,
+    "ip": "VOIDSMP2.aternos.me",
+    "port": 64839,
     "version": "1.20.1",
     "try-creative": false
   },
